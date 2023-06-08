@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DZ6BARBEARIA/static/css/main.dde35ecc.css",
-    "main.js": "/DZ6BARBEARIA/static/js/main.4906583a.js",
+    "main.js": "/DZ6BARBEARIA/static/js/main.0172a6d5.js",
     "index.html": "/DZ6BARBEARIA/index.html",
     "main.dde35ecc.css.map": "/DZ6BARBEARIA/static/css/main.dde35ecc.css.map",
-    "main.4906583a.js.map": "/DZ6BARBEARIA/static/js/main.4906583a.js.map"
+    "main.0172a6d5.js.map": "/DZ6BARBEARIA/static/js/main.0172a6d5.js.map"
   },
   "entrypoints": [
     "static/css/main.dde35ecc.css",
-    "static/js/main.4906583a.js"
+    "static/js/main.0172a6d5.js"
   ]
 }
