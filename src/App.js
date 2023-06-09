@@ -2,10 +2,10 @@ import './App.css';
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { Container } from '@mui/material';
-import Home from './pages/Home';
-import Recepcao from './pages/Recepcao';
-import ListaEspera from './pages/ListaEspera';
-import Barbeiro from './pages/Barbeiro';
+import Home from '../build/static/js/Home';
+import Recepcao from '../build/static/js/Recepcao';
+import ListaEspera from '../build/static/js/ListaEspera';
+import Barbeiro from '../build/static/js/Barbeiro';
 
 function App() {
   return (
